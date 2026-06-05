@@ -1,6 +1,6 @@
 # Hi, I'm Naresh Sajwani 👋
 
-## Senior DBA | Automation Engineer | Cloud & DevOps Learner
+## Senior Cloud DBA | Automation Engineer | DevOps Learner
 
 With 13+ years of experience in enterprise database administration, I specialize in Oracle Database, RAC, Data Guard, GoldenGate, Performance Tuning, Backup & Recovery, and Production Support. My journey is evolving beyond traditional DBA responsibilities into Database Reliability Engineering (DBRE), Automation, Cloud Infrastructure, and Platform Engineering.
 
