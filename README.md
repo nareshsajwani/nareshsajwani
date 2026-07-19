@@ -31,9 +31,9 @@ With 13+ years of experience in enterprise database administration, I specialize
 
 ### Other Databases
 
+* Postges
 * MongoDB
 * MySQL
-* Vertica
 
 ### Data & Streaming Technologies
 
@@ -54,15 +54,16 @@ With 13+ years of experience in enterprise database administration, I specialize
 * Shell Scripting
 * PL/SQL
 * Python 
-* Ansible 
+   
 
 ### Infrastructure & DevOps
 
 * Git & GitHub
-* Terraform (Learning)
-* Linux Administration
-* CI/CD Concepts
-* Infrastructure as Code
+* Terraform
+* Ansible
+* Jenkins
+* Docker
+
 
 ### Observability & Monitoring
 
@@ -87,45 +88,6 @@ With 13+ years of experience in enterprise database administration, I specialize
 * Oracle Database Certified Professional (OCP)
 * Oracle Database Associate (OCA)
 * Oracle SQL Expert
-
----
-
-## 📚 Current Learning Roadmap
-
-### DevOps
-
-* Git & GitHub
-* CI/CD Fundamentals
-* Linux Automation
-
-### Cloud
-
-* AWS
-* OCI
-
-### Infrastructure as Code
-
-* Terraform
-* Ansible
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### Observability
-
-* Prometheus
-* Grafana
-* OpenTelemetry
-
-### AI for Operations
-
-* AI-assisted troubleshooting
-* Retrieval-Augmented Generation (RAG)
-* Operational Knowledge Assistants
-
 ---
 
 ## 🎯 Career Vision
